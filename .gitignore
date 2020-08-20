@@ -5,3 +5,5 @@ node_modules
 .gitattributes
 package-lock.json
 package.json
+.idea/vcs.xml
+.DS_Store

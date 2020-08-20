@@ -1,1 +1,57 @@
 @import "config";
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
+
+:root {
+  --primary-color: #3a4052;
+}
+
+@mixin background {
+  @if $show-home-video {
+    &#bg-img {
+      background: $home-image;
+      background-attachment: fixed;
+      background-size: cover;
+    }
+  }
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.5;
+}
+
+// Linki
+a {
+  text-decoration: none;
+  color: var(--primary-color);
+  margin-left: 5px;
+}
+
+h1,
+h2,
+h3 {
+  padding: 5px;
+
+  &.lg-heading {
+    font-weight: 300;
+    font-size: 50px;
+    line-height: 1.2;
+    margin-bottom: 15px;
+    padding: 5px;
+  }
+}
+
+p {
+  margin-left: 5px;
+}
+
+.icons {
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
