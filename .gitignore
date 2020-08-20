@@ -1,0 +1,7 @@
+.idea/modules.xml
+.idea/workspace.xml
+.idea/VideoLandingHomePage.iml
+node_modules
+.gitattributes
+package-lock.json
+package.json

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b6f2668-7f13-4425-b5da-60c3fa6b1558" name="Default Changelist" comment="" />
+    <list default="true" id="9b6f2668-7f13-4425-b5da-60c3fa6b1558" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Programming/VideoLandingHomePage/distribution/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programming/VideoLandingHomePage/scss/_config.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programming/VideoLandingHomePage/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/VideoLandingHomePage/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programming/VideoLandingHomePage/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/VideoLandingHomePage/distribution/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programming/VideoLandingHomePage/distribution/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/VideoLandingHomePage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programming/VideoLandingHomePage/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,20 +25,28 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../Programming/VideoLandingHomePage" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1gNK6Y9g2X2ttux1FaijlKYTLt9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -64,18 +79,25 @@
       <option name="presentableId" value="Default" />
       <updated>1597949408506</updated>
       <workItem from="1597949409770" duration="15000" />
-      <workItem from="1597949438182" duration="1410000" />
+      <workItem from="1597949438182" duration="4878000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="2008" y="275" key="#Project_Structure" timestamp="1597949463306">
       <screen x="0" y="23" width="3360" height="1342" />
     </state>
     <state x="2008" y="275" key="#Project_Structure/0.23.3360.1342@0.23.3360.1342" timestamp="1597949463306" />
+    <state x="2258" y="449" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597952960807">
+      <screen x="0" y="23" width="3360" height="1342" />
+    </state>
+    <state x="2258" y="449" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.3360.1342@0.23.3360.1342" timestamp="1597952960807" />
     <state x="2185" y="329" width="670" height="676" key="search.everywhere.popup" timestamp="1597950672269">
       <screen x="0" y="23" width="3360" height="1342" />
     </state>
