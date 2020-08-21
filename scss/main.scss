@@ -5,16 +5,6 @@
   --primary-color: #3a4052;
 }
 
-@mixin background {
-  @if $show-home-video {
-    &#bg-img {
-      background: $home-image;
-      background-attachment: fixed;
-      background-size: cover;
-    }
-  }
-}
-
 * {
   box-sizing: border-box;
   margin: 0;
@@ -26,32 +16,115 @@ body {
   line-height: 1.5;
 }
 
-// Linki
 a {
   text-decoration: none;
   color: var(--primary-color);
-  margin-left: 5px;
 }
 
-h1,
-h2,
+.icons a {
+  transition: all 0.5s ease-out; }
+.icons a:hover {
+  color: #eece1a;
+}
+
+
+h1 {
+  font-weight: 300;
+  font-size: 45px;
+  line-height: 1.2;
+  margin-bottom: 15px;
+}
+
 h3 {
-  padding: 5px;
-
-  &.lg-heading {
-    font-weight: 300;
-    font-size: 50px;
-    line-height: 1.2;
-    margin-bottom: 15px;
-    padding: 5px;
-  }
+  font-weight: 300;
+  font-size: 45px;
+  line-height: 1.2;
+  margin-bottom: 15px;
 }
 
-p {
-  margin-left: 5px;
+
+
+.showcase {
+  position: relative;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #fff;
+  padding: 0 20px;
 }
 
-.icons {
-  margin-left: 5px;
-  margin-bottom: 5px;
+.video-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: var(--primary-color) url('distribution/video/5.mp4') no-repeat center center/cover;
+
 }
+
+.video-container video {
+  min-width: 100%;
+  min-height: 100%;
+  object-fit: cover;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
+// Covering the video.
+.video-container:after {
+  content:'';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.4);
+}
+
+.content {
+  z-index: 10;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 30px;
+  background: var(--primary-color);
+  color: #ffffff;
+  border: 1px #ffffff solid;
+  border-radius: 5px;
+  margin-top: 25px;
+  opacity: 0.7;
+}
+
+.btn:hover {
+  transform: scale(0.98);
+}
+
+#about {
+  padding: 40px;
+  text-align: center;
+}
+
+#about p {
+  font-size: 1.2rem;
+  max-width: 600px;
+  margin: auto;
+}
+
+#about h2 {
+  margin: 30px 0;
+  color: var(--primary-color);
+}
+
+.social a {
+  margin: 0.5px;
+}
+
+@import "mobile";

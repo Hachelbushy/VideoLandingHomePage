@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b6f2668-7f13-4425-b5da-60c3fa6b1558" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distribution/video/6.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_mobile.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/distribution/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/distribution/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distribution/video/video.mov" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/_config.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_config.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/main.scss" afterDir="false" />
@@ -61,6 +63,21 @@
       <recent name="$PROJECT_DIR$/.." />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -71,7 +88,11 @@
       <updated>1597949408506</updated>
       <workItem from="1597949409770" duration="15000" />
       <workItem from="1597949438182" duration="6220000" />
-      <workItem from="1597956043476" duration="2304000" />
+      <workItem from="1597956043476" duration="3763000" />
+      <workItem from="1598006870821" duration="1014000" />
+      <workItem from="1598016077163" duration="49000" />
+      <workItem from="1598016147396" duration="6531000" />
+      <workItem from="1598023057854" duration="3860000" />
     </task>
     <servers />
   </component>
@@ -90,9 +111,9 @@
       <screen x="0" y="23" width="3360" height="1342" />
     </state>
     <state x="2258" y="449" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.3360.1342@0.23.3360.1342" timestamp="1597952960807" />
-    <state x="2185" y="329" width="670" height="676" key="search.everywhere.popup" timestamp="1597950672269">
+    <state x="2185" y="329" width="670" height="676" key="search.everywhere.popup" timestamp="1598019700234">
       <screen x="0" y="23" width="3360" height="1342" />
     </state>
-    <state x="2185" y="329" width="670" height="676" key="search.everywhere.popup/0.23.3360.1342@0.23.3360.1342" timestamp="1597950672269" />
+    <state x="2185" y="329" width="670" height="676" key="search.everywhere.popup/0.23.3360.1342@0.23.3360.1342" timestamp="1598019700234" />
   </component>
 </project>
