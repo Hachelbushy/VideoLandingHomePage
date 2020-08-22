@@ -21,6 +21,17 @@ a {
   color: var(--primary-color);
 }
 
+a.active {
+  display: inline-block;
+  padding: 2.5px 5px;
+  background: var(--primary-color);
+  color: #ffffff;
+  border: 1px #ffffff solid;
+  border-radius: 2px;
+  margin-top: 10px;
+  opacity: 0.7;
+}
+
 .icons a {
   transition: all 0.5s ease-out;
 }
@@ -43,7 +54,12 @@ h3 {
   line-height: 1.2;
   margin-bottom: 15px;
 }
-
+.langWrap {
+  position:fixed;
+  top: 0;
+  left: 10px;
+  z-index: 5;
+}
 
 .showcase {
   position: relative;
@@ -65,7 +81,6 @@ h3 {
   height: 100%;
   overflow: hidden;
   background: var(--primary-color) url('distribution/video/5.mp4') no-repeat center center/cover;
-
 }
 
 .video-container video {

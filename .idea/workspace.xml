@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9b6f2668-7f13-4425-b5da-60c3fa6b1558" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/landingPage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_config.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_config.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distribution/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/distribution/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distribution/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/distribution/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/landingPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +77,8 @@
       <workItem from="1598029233304" duration="23000" />
       <workItem from="1598029296993" duration="22000" />
       <workItem from="1598029548449" duration="238000" />
+      <workItem from="1598085531522" duration="7392000" />
+      <workItem from="1598110178258" duration="2660000" />
     </task>
     <servers />
   </component>
@@ -94,9 +97,13 @@
       <screen x="0" y="23" width="3360" height="1342" />
     </state>
     <state x="2258" y="449" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.3360.1342@0.23.3360.1342" timestamp="1597952960807" />
-    <state x="2185" y="329" width="670" height="676" key="search.everywhere.popup" timestamp="1598019700234">
+    <state x="1680" y="23" width="1680" height="1341" key="dock-window-1" timestamp="1598108823880">
       <screen x="0" y="23" width="3360" height="1342" />
     </state>
-    <state x="2185" y="329" width="670" height="676" key="search.everywhere.popup/0.23.3360.1342@0.23.3360.1342" timestamp="1598019700234" />
+    <state x="1680" y="23" width="1680" height="1341" key="dock-window-1/0.23.3360.1342@0.23.3360.1342" timestamp="1598108823880" />
+    <state x="2185" y="329" width="670" height="676" key="search.everywhere.popup" timestamp="1598105671776">
+      <screen x="0" y="23" width="3360" height="1342" />
+    </state>
+    <state x="2185" y="329" width="670" height="676" key="search.everywhere.popup/0.23.3360.1342@0.23.3360.1342" timestamp="1598105671776" />
   </component>
 </project>
