@@ -1,5 +1,5 @@
 const langEl = document.querySelector('.langWrap');
-const link = document.querySelectorAll('a');
+const link = document.querySelectorAll('.langWrap>a');
 const headingEl = document.querySelector('.heading');
 const btnEl = document.querySelector('.btn')
 const aboutEl = document.querySelector('.aboutHeading');
