@@ -13,8 +13,6 @@ link.forEach(el =>{
 
 
         const attr = el.getAttribute('lang');
-        // const attr2 = el.getAttribute('btn');
-        // const attr3 = [attr,attr2];
 
         headingEl.textContent = headingText[attr].heading;
         btnEl.textContent = headingText[attr].btn
