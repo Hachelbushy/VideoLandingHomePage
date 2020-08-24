@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b6f2668-7f13-4425-b5da-60c3fa6b1558" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/VideoLandingHomePage.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/landingPage.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distribution/video/1.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distribution/video/5.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/distribution/video/5.mp4" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +82,9 @@
       <workItem from="1598123693248" duration="22000" />
       <workItem from="1598123755299" duration="19000" />
       <workItem from="1598125556521" duration="6000" />
+      <workItem from="1598261902252" duration="258000" />
+      <workItem from="1598278154799" duration="25000" />
+      <workItem from="1598284146965" duration="341000" />
     </task>
     <servers />
   </component>
