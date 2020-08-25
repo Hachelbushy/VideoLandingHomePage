@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b6f2668-7f13-4425-b5da-60c3fa6b1558" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/distribution/video/1.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/distribution/video/5.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/distribution/video/5.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/landingPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/landingPage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_config.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_config.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +83,7 @@
       <workItem from="1598261902252" duration="258000" />
       <workItem from="1598278154799" duration="25000" />
       <workItem from="1598284146965" duration="341000" />
+      <workItem from="1598344991420" duration="193000" />
     </task>
     <servers />
   </component>
