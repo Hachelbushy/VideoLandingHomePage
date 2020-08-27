@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b6f2668-7f13-4425-b5da-60c3fa6b1558" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/landingPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/landingPage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_config.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_config.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +86,13 @@
       <workItem from="1598278154799" duration="25000" />
       <workItem from="1598284146965" duration="341000" />
       <workItem from="1598344991420" duration="193000" />
+      <workItem from="1598383067306" duration="15000" />
+      <workItem from="1598383189777" duration="205000" />
+      <workItem from="1598432485640" duration="122000" />
+      <workItem from="1598433819286" duration="47000" />
+      <workItem from="1598434046614" duration="110000" />
+      <workItem from="1598435985381" duration="14000" />
+      <workItem from="1598530435899" duration="29000" />
     </task>
     <servers />
   </component>
