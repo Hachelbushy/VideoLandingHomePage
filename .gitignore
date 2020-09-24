@@ -18,3 +18,4 @@ package.json
 *.xml
 *.xml
 *.xml
+.idea/workspace.xml
